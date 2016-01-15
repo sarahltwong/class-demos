@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+body {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.potato {
+  font-family: "lobster";
+  }
+
+.bacon {
+  font-family: arial;
+  background-color: pink;
+  padding: 10px;
+  font-style: italic;
+}
+
+.sausage {
+  font-family: Cursive;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.lorizzle {
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+li[hidden] {
+
+}
+
+li:hover {
+  cursor: crosshair;
+}
+
+li:link {
+
+}
